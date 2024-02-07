@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera Staff",
+      "title": "What you need to know about the ICC Cricket World Cup 2023 stadiums",
+      "description": "The ICC Cricket World Cup 2023 matches will be hosted at 10 stadiums across India.",
+      "url": "https://www.aljazeera.com/sports/2023/9/28/what-you-need-to-know-about-the-icc-cricket-world-cup-2023-stadiums",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP22091515129850-1695586657.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-09-28T09:07:08Z",
+      "content": "Ten teams will lock horns for the biggest prize in cricket when the ICC Cricket World Cup gets under way in India on October 5.\r\nThe opening game of the 13th edition of the tournament will be a repla… [+8554 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNA" },
+      "author": null,
+      "title": "Pathirana comes up trumps for Sri Lanka at Asia Cup",
+      "description": "Mahendra Singh Dhoni is known to have a keen eye for talent and the match-winning display by Sri Lanka pacer Matheesha Pathirana against Bangladesh at the Asia Cup on Thursday shows the former India captain's reputation is well earned.Pathirana has modelled h…",
+      "url": "https://www.channelnewsasia.com/sport/pathirana-comes-trumps-sri-lanka-asia-cup-3740066",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--glUC6AOF--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=38AArLr4",
+      "publishedAt": "2023-09-01T06:26:29Z",
+      "content": "Mahendra Singh Dhoni is known to have a keen eye for talent and the match-winning display by Sri Lanka pacer Matheesha Pathirana against Bangladesh at the Asia Cup on Thursday shows the former India … [+1394 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "NDTV Sports Desk",
+      "title": "Watch: MS Dhoni Makes Kids' Day With This Gesture, Video Viral",
+      "description": "MS Dhoni is making the most of his time away from cricket.",
+      "url": "https://sports.ndtv.com/cricket/ms-dhoni-makes-kids-day-with-this-gesture-video-viral-watch-4344088",
+      "urlToImage": "https://c.ndtvimg.com/2023-08/vh9iuhbg_ms-dhoni-with-young-kids-1200_625x300_31_August_23.jpg",
+      "publishedAt": "2023-08-31T04:38:21Z",
+      "content": "Former India captain MS Dhoni is making the most of his time away from cricket. From driving luxurious cars to flying in economy class, Dhoni has done it all after leading Chennai Super Kings (CSK) t… [+1369 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "NDTV Sports Desk",
+      "title": "Watch: What If MS Dhoni Batted Left Handed? Fan's Video Compilation Viral",
+      "description": "A fan compiled an edited video of MS Dhoni batting left handed and it has gone viral.",
+      "url": "https://sports.ndtv.com/cricket/what-if-ms-dhoni-batted-left-handed-fans-video-compilation-viral-watch-4374496",
+      "urlToImage": "https://c.ndtvimg.com/2023-09/nepji4e8_ms-dhoni-twitter_625x300_09_September_23.jpg",
+      "publishedAt": "2023-09-09T11:11:45Z",
+      "content": "MS Dhoni, despite being an internationally retired player, continues to dominate discussions among fans. His exploits for Team India and Chennai Super Kings have made him that much popular. With thre… [+2266 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "NDTV Sports Desk",
+      "title": "Video Clip Showing WWE Superstar Talking About MS Dhoni Is Viral",
+      "description": "MS Dhoni fever has taken over the WWE universe too.",
+      "url": "https://sports.ndtv.com/cricket/viral-video-clip-showing-wwe-superstar-talking-about-ms-dhoni-takes-internet-by-storm-4369973",
+      "urlToImage": "https://c.ndtvimg.com/2023-09/bemeedtg_wwe-stars_625x300_08_September_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2023-09-08T13:45:05Z",
+      "content": "Who doesn't know MS Dhoni? If we talk about the cricketing universe, there would hardly be a fan who hasn't heard about the legendary Indian cricketer. Be it cricketers or fans, the name MS Dhoni onl… [+1550 chars]"
+    }
+    
+  ]
+}

@@ -1,0 +1,11 @@
+.card-title{
+    max-height: 50px;
+    overflow: hidden;
+}
+.card-text{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
