@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import axios from 'axios';
 import Newsitem from './Newsitem';
 import Spinner from './Spinner';
 
@@ -19,8 +20,15 @@ export class News extends Component {
     fetchNews = async (page) => {
         this.setState({ loading: true });
         try {
-            let response = await fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=${API_KEY}&page=${page}`);
-            let data = await response.json();
+            const response = await axios.get(`https://newsapi.org/v2/top-headlines`, {
+                params: {
+                    country: 'in',
+                    category: this.props.category,
+                    apiKey: API_KEY,
+                    page: page
+                }
+            });
+            const data = response.data;
             if (data.articles) {
                 this.setState({
                     articles: data.articles,
@@ -75,4 +83,3 @@ export class News extends Component {
 }
 
 export default News;
-
