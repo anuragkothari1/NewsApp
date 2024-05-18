@@ -41,7 +41,8 @@ export class News extends Component {
                 this.setState({ articles: [], loading: false });
             }
         } catch (error) {
-            console.error('Error fetching news articles:', error);
+            console.error('Error fetching news articles:', error.message);
+            console.error('Error details:', error.response);
             this.setState({ articles: [], loading: false });
         }
     }
